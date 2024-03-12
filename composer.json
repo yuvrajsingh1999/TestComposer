@@ -1,8 +1,8 @@
 {
-    "name": "testYuvi/yuvraj",
+    "name": "test_yuvi/yuvraj",
     "description": "Test to Host composer package for laravel",
     "keywords": [
-        "testYuvi",
+        "test_yuvi",
         "yuvraj"
     ],
     "homepage": "https://github.com/test/yuvraj",
