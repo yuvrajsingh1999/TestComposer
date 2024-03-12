@@ -8,6 +8,9 @@
     "homepage": "https://github.com/test/yuvraj",
     "license": "MIT",
     "type": "library",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "version": "1.0.0"
     "authors": [
         {
             "name": "Yuvraj singh",
